@@ -22,7 +22,7 @@ tags:
 
 # Introduction and Scope
 
-This page contains notes from the *Introduction to Parametric Feature-Based CAD* course available at *onshpae*. This page essentially pulls together all of the course's *key takeaways* section.
+This page contains notes from the [Introduction to Parametric Feature-Based CAD course](https://learn.onshape.com/learn/course/introduction-to-parametric-feature-based-cad/parametric-feature-based-cad/introduction-to-3d-cad) available at [onshpae](#https://www.onshape.com/en/). This page essentially pulls together all of the course's *key takeaways*.
 
 # 01 Course Introduction
 
@@ -65,9 +65,25 @@ This page contains notes from the *Introduction to Parametric Feature-Based CAD*
 
 # 03 Knowledge Check
 
+1. Which view projection is oriented such that all axes are at the same angle and scale, creating a balanced view of the object?
+* Isometric
+
+2. Onshape is a fully featured CAD software system that can be accessed completely from your web browser.
+* True
+
+3. The faces of a part are unfolded in the image below. Which of the 3D objects corresponds to the unfolded part?
+* B
+
+4. Which projection style is used in this drawing?
+* Third Angle
+
+5. Only one user may work in an Onshape document at a time.
+* False
+
 
 # Links
 
 * [Onshape Homepage](https://www.onshape.com/en/)
 * [Onshape Learning Center](https://learn.onshape.com/)
+* [Onshape Learning Dashboard](https://learn.onshape.com/learn/dashboard)
 * [Introduction to Parametric Feature-Based CAD Course](https://learn.onshape.com/learn/course/introduction-to-parametric-feature-based-cad/)
